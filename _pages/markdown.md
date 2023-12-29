@@ -7,5 +7,6 @@ redirect_from:
   - /markdown.html
 ---
 
-* Email: 
-* Phone: 
+* Email: atharvaw31 at gmail dot com
+* [LinkedIn](https://www.linkedin.com/in/atharva-wandile/)
+* [Github](https://github.com/atharvaw1)
