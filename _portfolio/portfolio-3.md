@@ -1,6 +1,6 @@
 ---
 title: "Multi-Agent Reinforcement Learning using Continuous Macro-Actions"
-excerpt: "<br/><img src='/images/500x300.png'>"
+excerpt: "<br/><img src='/images/RL_MAMAPPO.png'>"
 collection: portfolio
 ---
 
