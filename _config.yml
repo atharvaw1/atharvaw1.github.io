@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Atharva Wandile"
+title                    : "Atharva Wandile Portfolio"
 title_separator          : "-"
 name                     : &name "Atharva Wandile"
-description              : &description "Software Engineer"
+description              : &description "Atharva Wandile Portfolio"
 url                      : https://atharvaw1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "atharvaw1/atharvaw1.github.io"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/atharvaw1"
+  github           : "atharvaw1"
   google_plus      :
   keybase          :
   instagram        :
