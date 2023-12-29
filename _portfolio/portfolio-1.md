@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Distributed Real Time Collaborative Editor"
+excerpt: "Developed responsive app for a distributed text editor (like google docs) that can support multiple users updating document in real-time and is fault tolerant by leveraging an architecture with data replication management and distributed transactions.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
