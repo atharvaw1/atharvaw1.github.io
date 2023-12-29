@@ -1,6 +1,6 @@
 ---
 title: "Distributed Real Time Collaborative Editor"
-excerpt: "<br/><img src='/images/500x300.png'>"
+excerpt: "<br/><img src='/images/Text Editor.png'>"
 collection: portfolio
 ---
 
