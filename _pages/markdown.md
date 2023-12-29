@@ -7,5 +7,5 @@ redirect_from:
   - /markdown.html
 ---
 
-Email: 
-Phone: 
+* Email: 
+* Phone: 
