@@ -11,7 +11,7 @@ Hi, I'm Atharva Wandile, a Masters graduate in Computer Science at Northeastern 
 
 **Work Background**
 ==============
-During my time at Redbus, I served as a Software Engineer in the Data Engineering team, specializing in Big Data Pipelines and Customer Life Cycle Management. My expertise spans a range of technologies, including Spark, AWS, Apache Storm, RabbitMQ, and both SQL and NoSQL databases. Additionally, I take pride in optimizing low-latency Flask and Golang APIs for efficient backend web development.
+I am currently a software developer working at Oak AI with a specialization in data engineering and back-end development. With a robust background in Big Data Pipelines and Databases, I bring expertise in diverse technologies, including Spark, AWS, Apache Storm, RabbitMQ, and both SQL and NoSQL databases. My knack for optimizing low-latency Flask and Golang APIs enhances efficiency in backend web development.
 
 **Research Interests**
 ==============
