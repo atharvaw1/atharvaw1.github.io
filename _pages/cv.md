@@ -19,6 +19,11 @@ Education
 
 Work experience
 ======
+* Software Developer, Oak AI, Boston, MA Jan. 2024 – Present
+  *  Strengthened data access controls and amplified system transparency through an orchestrated audit, documentation, and
+  clarification of Supabase RLS policies and externally visible entry points.
+  *  Engineered an efficient algorithm resulting in the identification of duplicate documents based on text content.
+
 * Research Intern, Lab for Learning and Planning in Robotics(NEU), Boston, MA       May. 2023 – Present
   * Multi-Agent Reinforcement Learning: Developed continuous macro-action environments for Multi-Agent Reinforcement Learning. Analyzed and tested continuous macro-action PPO algorithm for robotics and autonomous systems.
   * Hierarchical Reinforcement Learning: Achieved state-of-the-art performance by training agents using option-critic and actor-critic algorithms for centralized multi-agent reinforcement learning on four rooms and petting zoo MPE environments. 
@@ -38,6 +43,7 @@ Skills
   * Java
   * Go
   * Scala
+  * Typescript
 * Tools and Technologies
   * AWS
   * MongoDB
